@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prem, a third-year student at IIT Jodhpur, majoring in Artificial Intelligence and Data Science.
+- 👋 Hi, I’m Prem, a Final-year student at IIT Jodhpur, majoring in Artificial Intelligence and Data Science.
 - 👀 I’m interested in Web dev,Machine Learning and Cybersecurity. 
 - 🌱 I’m currently learning about transformers and how they have brought a revolution in the AI industry.
 - 💞️ I’m looking to collaborate on projects in the field of machine learning or data science.
